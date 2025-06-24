@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Salad",
+        "price": 85,
+        "company": "Koepp - Parker",
+        "Manufacture": "Turkmenistan",
+        "purchase_Date": "2025-05-13T08:36:50.799Z",
+        "availibility": false,
+        "id": "1"
+    },
+    {
+        "name": "Pants",
+        "price": 66,
+        "company": "Wuckert Group",
+        "Manufacture": "Netherlands",
+        "purchase_Date": "2025-04-27T01:17:36.714Z",
+        "availibility": false,
+        "id": "2"
+    },
+    {
+        "name": "Tuna",
+        "price": 82,
+        "company": "Erdman - Mueller",
+        "Manufacture": "Zambia",
+        "purchase_Date": "2025-04-07T06:06:59.851Z",
+        "availibility": false,
+        "id": "3"
+    },
+    {
+        "name": "Salad",
+        "price": 24,
+        "company": "Stoltenberg, Borer and Bergstrom",
+        "Manufacture": "Tunisia",
+        "purchase_Date": "2025-04-21T22:43:06.981Z",
+        "availibility": false,
+        "id": "4"
+    },
+    {
+        "name": "Shoes",
+        "price": 95,
+        "company": "Hahn LLC",
+        "Manufacture": "Brazil",
+        "purchase_Date": "2025-06-01T14:22:33.123Z",
+        "availibility": true,
+        "id": "5"
+    },
+    {
+        "name": "Cheese",
+        "price": 45,
+        "company": "Schmitt Inc",
+        "Manufacture": "France",
+        "purchase_Date": "2025-05-28T09:15:47.456Z",
+        "availibility": true,
+        "id": "6"
+    },
+    {
+        "name": "Laptop",
+        "price": 1200,
+        "company": "TechTrend Innovations",
+        "Manufacture": "China",
+        "purchase_Date": "2025-06-10T03:45:12.789Z",
+        "availibility": false,
+        "id": "7"
+    },
+    {
+        "name": "Hat",
+        "price": 30,
+        "company": "Fadel and Sons",
+        "Manufacture": "Mexico",
+        "purchase_Date": "2025-05-15T18:30:25.321Z",
+        "availibility": true,
+        "id": "8"
+    },
+    {
+        "name": "Soda",
+        "price": 15,
+        "company": "Boyle Beverages",
+        "Manufacture": "United States",
+        "purchase_Date": "2025-06-05T12:10:50.654Z",
+        "availibility": true,
+        "id": "9"
+    },
+    {
+        "name": "Book",
+        "price": 25,
+        "company": "Pages Publishing",
+        "Manufacture": "India",
+        "purchase_Date": "2025-06-20T07:55:41.987Z",
+        "availibility": false,
+        "id": "10"
+    }
+]
